@@ -16,7 +16,7 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 [LAB6](https://github.com/jokerkung2543/4134901-2-64/tree/master/LAB6)
 [LAB7](https://github.com/jokerkung2543/4134901-2-64/tree/master/LAB7)
 [LAB8](https://github.com/jokerkung2543/4134901-2-64/tree/master/LAB8)
-
+[FINALLAB](https://github.com/jokerkung2543/FINALLAB)
 ### RUN
 **LAB1**
 
@@ -43,6 +43,9 @@ GO
 
 **LAB8**
 Docker+DBeaver+POSTMAN
+
+**FINALLAB**
+GO+POSTGRES+REACT Finish!
 
 **LAB TEACHER**
 [LABTEACHER](https://github.com/dadwindad/4134901-2-64)
