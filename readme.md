@@ -4,7 +4,7 @@ _สาขาวิชาเทคโนโลยีสารสนเทศ_
 **คณะวิทยาศาสตร์**
 
 ### นายธนศร สุดชนะ
-![นายธนศร สุดชนะ](https://scontent.fbkk10-1.fna.fbcdn.net/v/t1.6435-9/128685515_2772055196381417_7405014966041415692_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=174925&_nc_eui2=AeFkL7g3kx2fetmzjWI7PQbCYGCLpVJI8GVgYIulUkjwZSyjTchbMJzwVfUA2pIWgoqEwZdHph6NFTbs2nu_mKfK&_nc_ohc=Qeqjx6QRIdUAX8bG0UA&_nc_ht=scontent.fbkk10-1.fna&oh=00_AT9N_FY5pbzSxcfYaltsNXmhDYJcMohWjir_EKyP_URUGQ&oe=61F18579)
+![นายธนศร สุดชนะ](https://lh3.googleusercontent.com/a-/AOh14GjhzSQOq_GMbcqg-ntfcDSjKWesRJKvdcEGr_Lb=s288-p-rw-no)
 
 >รหัสนักศึกษา 610112418012
 
